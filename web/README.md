@@ -2,10 +2,6 @@
 # eaglercraft
 For Versions 1.8.9 and + Eaglercraft servers
 
-#### The difference is, this replit removes the client itself, so NO DMCA IS POSSIBLE!! This is now a server-only hosting solution, NOT a client hosting solution. DO NOT upload the client to your Replit; it will break their rules. Honestly, have some respect for Mojang. It's literally always said "Do not distribute!" so like, cmon, be reasonable and don't put the client on your replit. Thanks.
-
-## looking for the client?
-well, look elsewhere buddy, because you're not gonna find it here.
 
 ### Server supports most if not all Bukkit/Spigot 1.8 plugins. Here are a few to get you started:
 - [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded/releases) (Set max reg per ip in the config to a very large number, and turn off listing other accounts)
