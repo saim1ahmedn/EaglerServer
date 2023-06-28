@@ -1,9 +1,7 @@
 
 # eaglercraft
+For Versions 1.8.9 and + Eaglercraft servers
 
-Combines 1.5 and 1.8 Eaglercraft servers together!
-
-## how is it back?
 #### The difference is, this replit removes the client itself, so NO DMCA IS POSSIBLE!! This is now a server-only hosting solution, NOT a client hosting solution. DO NOT upload the client to your Replit; it will break their rules. Honestly, have some respect for Mojang. It's literally always said "Do not distribute!" so like, cmon, be reasonable and don't put the client on your replit. Thanks.
 
 ## looking for the client?
